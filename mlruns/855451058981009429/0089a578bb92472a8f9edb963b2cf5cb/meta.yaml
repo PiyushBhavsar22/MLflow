@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/855451058981009429/0089a578bb92472a8f9edb963b2cf5cb/artifacts
+end_time: 1736603696008
+entry_point_name: ''
+experiment_id: '855451058981009429'
+lifecycle_stage: active
+run_id: 0089a578bb92472a8f9edb963b2cf5cb
+run_name: unequaled-bee-144
+run_uuid: 0089a578bb92472a8f9edb963b2cf5cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736603691626
+status: 3
+tags: []
+user_id: ASUS
