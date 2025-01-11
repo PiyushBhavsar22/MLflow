@@ -1,1 +1,4 @@
 mlflow
+sckikit-learn
+pandas
+numpy
