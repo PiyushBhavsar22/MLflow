@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/855451058981009429/2070565332c54905bd7043a8d058282a/artifacts
+end_time: 1736600694126
+entry_point_name: ''
+experiment_id: '855451058981009429'
+lifecycle_stage: active
+run_id: 2070565332c54905bd7043a8d058282a
+run_name: bustling-gnu-677
+run_uuid: 2070565332c54905bd7043a8d058282a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736600690490
+status: 3
+tags: []
+user_id: ASUS
